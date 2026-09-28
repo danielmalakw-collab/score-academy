@@ -1,0 +1,6 @@
+{
+  "name": "Supabase Web Platform Debugger & Hub",
+  "description": "منصة لتشغيل وتصحيح أكواد الويب المربوطة مع Supabase وحل المشاكل التقنية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
