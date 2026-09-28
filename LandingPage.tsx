@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Teacher, Course } from '../types';
+import { Teacher, Course } from './types';
 import {
   BookOpen,
   GraduationCap,
@@ -19,7 +19,7 @@ import {
   Globe,
   X
 } from 'lucide-react';
-import { SOCIAL_HUB_URL, getSocialHubUrl, setCustomSocialHubUrl } from '../config';
+import { SOCIAL_HUB_URL, getSocialHubUrl, setCustomSocialHubUrl } from './config';
 
 interface LandingPageProps {
   teachers: Teacher[];

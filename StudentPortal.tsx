@@ -10,7 +10,7 @@ import {
   Lesson,
   LessonViewLog,
   Enrollment
-} from '../types';
+} from './types';
 import {
   LayoutDashboard,
   Users,
@@ -53,7 +53,7 @@ import {
   MessageCircle,
   X
 } from 'lucide-react';
-import { SOCIAL_HUB_URL, getSocialHubUrl, setCustomSocialHubUrl } from '../config';
+import { SOCIAL_HUB_URL, getSocialHubUrl, setCustomSocialHubUrl } from './config';
 
 interface StudentPortalProps {
   currentUser: StudentUser;

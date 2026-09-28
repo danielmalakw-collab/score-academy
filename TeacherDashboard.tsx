@@ -14,7 +14,7 @@ import {
   LessonViewLog,
   ExamModel,
   EssayGrade
-} from '../types';
+} from './types';
 import {
   BookOpen,
   KeyRound,

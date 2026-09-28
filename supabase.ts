@@ -1,5 +1,5 @@
 import { createClient } from '@supabase/supabase-js';
-import { Teacher, Course, CourseCode, Enrollment, StudentUser, Exam, ExamSubmission } from '../types';
+import { Teacher, Course, CourseCode, Enrollment, StudentUser, Exam, ExamSubmission } from './types';
 
 export const SUPABASE_URL = "https://iybttmakojsdbshfljng.supabase.co";
 export const SUPABASE_KEY = "sb_publishable_4I409dszLj8Kl3Qy6VdzWw_hIzMFL2o";

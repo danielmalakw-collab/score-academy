@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { StudentUser } from '../types';
+import { StudentUser } from './types';
 import { X, LogIn, UserPlus, Phone, Lock, User, ArrowLeft, GraduationCap, Sparkles, BookOpen, Users } from 'lucide-react';
 
 interface AuthModalProps {

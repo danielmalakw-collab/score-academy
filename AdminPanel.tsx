@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Teacher, Course, CourseCode, StudentUser, Enrollment } from '../types';
+import { Teacher, Course, CourseCode, StudentUser, Enrollment } from './types';
 import {
   Lock,
   Plus,
