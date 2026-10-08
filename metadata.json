@@ -1,0 +1,6 @@
+{
+  "name": "سكور أكاديمي",
+  "description": "منصة سكور أكاديمي التعليمية المتكاملة لإدارة الكورسات والطلاب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
